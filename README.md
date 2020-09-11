@@ -1,5 +1,5 @@
 # QPong-Qiskit
-Quantum Pong with Qiskit
+Quantum Pong with Qiskit.
 Make sure to download the repo onto your computer before running main.py
 
 ### Required Packages
